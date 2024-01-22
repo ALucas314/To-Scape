@@ -33,7 +33,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Possui funcionalidades com JS 3
 - [x] Feito com a Godot engine 4
       
-<img src="assets/img/" alt="Exemplo imagem">
+<img src="assets/img/QRcode.png" alt="Exemplo imagem">
 
 ## 🚀 Link do site copie e cole no navegador!
 
