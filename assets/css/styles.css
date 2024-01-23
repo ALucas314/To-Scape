@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: rgb(13, 46, 73);
-    background-image: url('/assets/img/background.jpg');
+    background-image: url('/assets/img/background\ 6.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -35,7 +35,7 @@ button {
     gap: 1px;
     border: 1px solid #ccc;
     position: relative;
-    background-color: rgba(255, 255, 255, 0.088);
+    background-color: rgba(43, 31, 150, 0.575);
 
 }
 
