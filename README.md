@@ -31,14 +31,13 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Animações simples 1
 - [x] Responsividade 2
 - [x] Possui funcionalidades com JS 3
-- [x] Feito com a Godot engine 4
       
 <img src="assets/img/QRcode.png" alt="Exemplo imagem">
 
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://game-4ypp.vercel.app/
+https://to-scape-jil1.vercel.app/
 ```
 
 
